@@ -10,3 +10,8 @@ h1 {
     font-size: 75px;
     text-align: center;
 }
+
+.desc {
+    color: yellow;
+    background-color: purple;
+}
