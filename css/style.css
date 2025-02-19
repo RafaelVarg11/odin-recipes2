@@ -2,3 +2,11 @@
     color: darkblue;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+h1 {
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    font-size: 75px;
+    text-align: center;
+}
